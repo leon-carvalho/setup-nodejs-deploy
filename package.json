@@ -1,0 +1,25 @@
+{
+  "name": "setup-nodejs-deploy",
+  "version": "0.0.1",
+  "description": "Setup Node.js Node.js project template with Docker and GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-carvalho/setup-nodejs-deploy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "template",
+    "express",
+    "demo"
+  ],
+  "author": "Leonardo Carvalho <leonardoscc15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leon-carvalho/setup-nodejs-deploy/issues"
+  },
+  "homepage": "https://github.com/leon-carvalho/setup-nodejs-deploy#readme"
+}
