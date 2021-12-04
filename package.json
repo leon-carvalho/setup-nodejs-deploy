@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/leon-carvalho/setup-nodejs-deploy/issues"
   },
-  "homepage": "https://github.com/leon-carvalho/setup-nodejs-deploy#readme"
+  "homepage": "https://github.com/leon-carvalho/setup-nodejs-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
