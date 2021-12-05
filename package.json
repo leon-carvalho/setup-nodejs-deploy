@@ -4,6 +4,7 @@
   "description": "Setup Node.js Node.js project template with Docker and GitHub Actions",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +25,8 @@
   "homepage": "https://github.com/leon-carvalho/setup-nodejs-deploy#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
