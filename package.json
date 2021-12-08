@@ -1,6 +1,6 @@
 {
   "name": "setup-nodejs-deploy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Setup Node.js Node.js project template with Docker and GitHub Actions",
   "main": "index.js",
   "scripts": {
